@@ -1,6 +1,6 @@
 # Lab Zero: Introduction to the course
 
-, We will have a report.
+For each lab, We will have a report.
 Each group should upload his report about each lab to its repository. i.e., For lab 1 Please use `lab/1/` folder.
 
 Each report contains:
