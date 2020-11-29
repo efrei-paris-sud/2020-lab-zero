@@ -8,4 +8,6 @@ Each report contains:
 2. **Exercises**: it is defined by Ex. in the lab repository.
 3. **Issues**: Practical works will face with issues. So please do a summary of the issue you have seen there.
 
-Please don't forget to follow the [this format](https://github.com/efrei-paris-sud/2019-sample-project/tree/master/lab/1)
+Please don't forget to follow the [this format](https://github.com/efrei-paris-sud/2020-sample-project/tree/master/lab/1)
+
+If you need some help on Markdown you can use [this link](https://github.com/efrei-paris-sud/2020-sample-project/blob/main/assets/Markdown-cheatsheet.md)
